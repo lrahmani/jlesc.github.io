@@ -1009,10 +1009,10 @@ rahmani_l:
   sur_name: Rahmani
   given_name: Lokman
   affiliation: inria
-  position:
+  position: phd
   topics: Big Data & I/O
   email: lokman.rahmani@irisa.fr
-  homepage:
+  homepage: https://team.inria.fr/kerdata/lokman-rahmani/
 
 ramet_p:
   sur_name: Ramet
